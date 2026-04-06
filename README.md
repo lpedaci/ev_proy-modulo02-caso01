@@ -72,7 +72,7 @@ caso-roberto/
 
 ---
 
-## Notas para el equipo docente
+## Notas orientativas didácticas
 
 - Cada requerimiento incluye su **trazabilidad** hacia una respuesta concreta de la entrevista.
 - Los elementos marcados con `nuevo` señalan aprendizajes que emergen de los bloques B, C y F de la entrevista (tecnología, usuarios del sistema y accesibilidad).
