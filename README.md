@@ -82,10 +82,14 @@ caso-roberto/
 
 ## Créditos
 
-- **Docente**: Prof. Pedaci, Lourdes — [LinkedIn](https://www.linkedin.com/in/lourdes-pedaci/)
+- **Autor**: Prof. Pedaci, Lourdes — [LinkedIn](https://www.linkedin.com/in/lourdes-pedaci/)
 - **Institución**: Instituto Leonardo Murialdo · 7mo Informática 2026
 - **Módulo**: 02 — Fases de un Proyecto
 
 ---
 
 > _"Definición incorrecta → solución incorrecta."_
+
+---
+
+*Material de uso instruccional. Los casos de uso son ficticios y fueron construidos como ejemplos pedagógicos para modelar la metodología de la asignatura.*
